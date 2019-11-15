@@ -1,0 +1,29 @@
+//▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧
+// ●플랙
+
+zFPS     = 1
+
+zDEBUG   = 0
+
+zCLK     = 1
+
+zDEBUG_KNL = 1
+zDEBUG_PGM = 1
+zDEBUG_DTA = 1
+zDEBUG_nTX = 1
+
+//▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧
+// ●화면 설정
+
+PGMx = 520
+PGMy = 10
+
+DiSPx = 340
+DiSPy =  30
+DiSPw = 1450
+DiSPh = 900
+
+//▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧▧
+// ●디폴트 접속유저 인덱스
+
+Default_UseriDX = 1
